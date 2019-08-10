@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">ForumKita</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="home">Home</string>
+    <string name="my_thread">My Thread</string>
+    <string name="logout">Logout</string>
+    <string name="account">Account</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="full_name">Full name</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="already_have_an_account_login_here">Already have an account? Login here</string>
+    <string name="don_t_have_account_sign_up_here">Don\'t have account? Sign Up Here</string>
+    <string name="upload_photo">upload photo</string>
+    <string name="imageuploaded">imageUploaded</string>
+    <string name="judul_thread">Judul Thread</string>
+    <string name="posted_by">Posted By</string>
+    <string name="comments">Comments :</string>
+    <string name="comment_by">Comment By</string>
+    <string name="add_comment">add comment</string>
+    <string name="send">send</string>
+    <string name="description">description</string>
+    <string name="isi_thread">Isi Thread</string>
+    <string name="add_thread">Add Thread</string>
+    <string name="thread_title">Thread title</string>
+    <string name="thread_content">Thread content</string>
+    <string name="add_image">Add Image</string>
+    <string name="edit_thread">edit thread</string>
+    <string name="delete_thread">delete thread</string>
+</resources>
